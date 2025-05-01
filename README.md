@@ -1,1 +1,1 @@
-This repo is use for Oncar's Tugas Akhir
+This repository is for Oncar's (18221068)final project.
