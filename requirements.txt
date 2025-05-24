@@ -8,3 +8,6 @@ imblearn
 tensorflow
 ipykernel
 notebook
+keras-tuner
+keras_cv_attention_models
+
