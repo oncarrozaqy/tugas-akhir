@@ -7,8 +7,3 @@ __pycache__/
 
 # Ignore DS_Store files
 .DS_Store
-
-# Ignore all KerasTuner directories
-cnn_tuner/
-hybrid_tuner/
-lstm_tuner/
